@@ -1,0 +1,353 @@
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.xml
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Oracle.EntityFrameworkCore.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.MongoDB.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.xml
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.xml
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Oracle.EntityFrameworkCore.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.MongoDB.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Core.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Core.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.xml
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.StaticWebAssets.xml
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.xml
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Oracle.EntityFrameworkCore.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.MongoDB.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Core.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.xml
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.StaticWebAssets.xml
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\WebApi.xml
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Oracle.EntityFrameworkCore.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.MongoDB.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Core.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.xml
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

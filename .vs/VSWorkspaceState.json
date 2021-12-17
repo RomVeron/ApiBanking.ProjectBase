@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Core",
+    "\\src\\Core\\Entities",
+    "\\src\\Core\\Helpers",
+    "\\src\\Core\\Interfaces",
+    "\\src\\Core\\Services",
+    "\\src\\Infrastructure",
+    "\\src\\WebApi\\Controllers"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,317 @@
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.deps.json
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.runtimeconfig.json
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.runtimeconfig.dev.json
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.pdb
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.csprojAssemblyReference.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.AssemblyInfoInputs.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.AssemblyInfo.cs
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.csproj.CopyComplete
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.dll
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.pdb
+C:\Users\jorge.caceres\Downloads\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.genruntimeconfig.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.deps.json
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.runtimeconfig.json
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.runtimeconfig.dev.json
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Moq.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.csprojAssemblyReference.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.AssemblyInfoInputs.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.AssemblyInfo.cs
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.csproj.CoreCompileInputs.cache
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.csproj.CopyComplete
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.dll
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.pdb
+D:\HENRY\PEDIDOS DE PROGRAMAS\DESA\PEDIDOS NORMALES\SPI\Project base soa\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.genruntimeconfig.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.deps.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.runtimeconfig.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.runtimeconfig.dev.json
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.UnitTests.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.csproj.AssemblyReference.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.AssemblyInfoInputs.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.AssemblyInfo.cs
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.csproj.CoreCompileInputs.cache
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.csproj.CopyComplete
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.dll
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.pdb
+C:\Proyectos\Sipap\ApiBanking.ProjectBase\ApiBanking.ProjectBase\tests\Core.UnitTests\obj\Debug\netcoreapp3.1\Core.UnitTests.genruntimeconfig.cache

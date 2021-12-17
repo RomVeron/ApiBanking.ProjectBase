@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Continental.API.WebApi
+build_property.ProjectDir = C:\Proyectos\Sipap\ApiBanking.ProjectBase\src\WebApi\
